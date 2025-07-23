@@ -1,3 +1,19 @@
-.main{
-    background-image: url(pizza.ootry.jpg);
+#lorem{
+    color: rgb(71, 112, 235);
+    font-family: 'Times New Roman', Times, serif;
+    background-image: url(https://ik.imagekit.io/j5lvcpn6p/Revamp/15158.jpg?updatedAt=1753248208506);
+}
+#img{
+    background-image: url(https://ik.imagekit.io/j5lvcpn6p/Revamp/15158.jpg?updatedAt=1753248208506);
+     opacity: .8;
+}
+#maruthu{
+    background-image: url(https://ik.imagekit.io/j5lvcpn6p/Revamp/15158.jpg?updatedAt=1753248208506);
+    height: 50vh;
+
+    background-size: cover;
+
+}#mm{
+    color:white;
+    opacity: 1;
 }
